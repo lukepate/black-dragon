@@ -11,7 +11,7 @@ const athletes = [
       { 'year': '1993', 'type': 'B', 'city': 'Hamilton', 'event': 'World Championships', 'category': '-57kg' },
       { 'year': '1995', 'type': 'G', 'city': 'Chiba', 'event': 'World Championships', 'category': '-57kg' },
       { 'year': '1995', 'type': 'G', 'city': 'Mar del Plata', 'event': 'Pan American Games', 'category': '-57kg' },
-      { 'year': '1996', 'type': 'G', 'city': 'Atlanta', 'event': 'Olympic Games', 'category': '-57kg' },
+      { 'year': '1996', 'tdiype': 'G', 'city': 'Atlanta', 'event': 'Olympic Games', 'category': '-57kg' },
       { 'year': '1997', 'type': 'S', 'city': 'Osaka', 'event': 'World Championships', 'category': '-57kg' },
       { 'year': '1999', 'type': 'G', 'city': 'Birmingham', 'event': 'World Championships', 'category': '-57kg' },
       { 'year': '2000', 'type': 'S', 'city': 'Sydney', 'event': 'Olympic Games', 'category': '-57kg' },
@@ -33,6 +33,7 @@ const athletes = [
     'country': 'cu',
     'birth': '1973',
     'image': 'day.jpg',
+    'bio': "Inspired by the fact Samurai warriors in order to attain a sense of balance between hard and soft lifestyles often practiced flower arranging or calligraphy, John Keehan did likewise. He artistically expressed himself as a hair stylist. He worked on some of the hair designs for Playboy models of the time that gave rise to his flamboyant personification and helped launch him to the forefront of martial art history.",
     'cover': 'blackdragon.jpg',
     'link': 'https://en.wikipedia.org/wiki/Driulis_González',
     'medals': [
@@ -59,7 +60,8 @@ const athletes = [
     'name': 'Grandmaster Michael Felkoff',
     'country': 'cu',
     'birth': '1973',
-    'image': 'dante.jpg',
+    'image': 'michael.jpg',
+    'bio': "Inspired by the fact Samurai warriors in order to attain a sense of balance between hard and soft lifestyles often practiced flower arranging or calligraphy, John Keehan did likewise. He artistically expressed himself as a hair stylist. He worked on some of the hair designs for Playboy models of the time that gave rise to his flamboyant personification and helped launch him to the forefront of martial art history.",
     'cover': 'blackdragon.jpg',
     'link': 'https://en.wikipedia.org/wiki/Driulis_González',
     'medals': [
@@ -86,7 +88,8 @@ const athletes = [
     'name': 'Grandmaster Donald Miskel',
     'country': 'cu',
     'birth': '1973',
-    'image': 'dante.jpg',
+    'image': 'donald.jpg',
+    'bio': "Inspired by the fact Samurai warriors in order to attain a sense of balance between hard and soft lifestyles often practiced flower arranging or calligraphy, John Keehan did likewise. He artistically expressed himself as a hair stylist. He worked on some of the hair designs for Playboy models of the time that gave rise to his flamboyant personification and helped launch him to the forefront of martial art history.",
     'cover': 'blackdragon.jpg',
     'link': 'https://en.wikipedia.org/wiki/Driulis_González',
     'medals': [
@@ -113,7 +116,8 @@ const athletes = [
     'name': 'Hanshi Frank Dux',
     'country': 'cu',
     'birth': '1973',
-    'image': 'dante.jpg',
+    'image': 'frank.jpg',
+    'bio': "Inspired by the fact Samurai warriors in order to attain a sense of balance between hard and soft lifestyles often practiced flower arranging or calligraphy, John Keehan did likewise. He artistically expressed himself as a hair stylist. He worked on some of the hair designs for Playboy models of the time that gave rise to his flamboyant personification and helped launch him to the forefront of martial art history.",
     'cover': 'blackdragon.jpg',
     'link': 'https://en.wikipedia.org/wiki/Driulis_González',
     'medals': [
@@ -140,7 +144,8 @@ const athletes = [
     'name': 'Grandmaster Ashida Kim',
     'country': 'cu',
     'birth': '1973',
-    'image': 'dante.jpg',
+    'image': 'kim.jpg',
+    'bio': "Inspired by the fact Samurai warriors in order to attain a sense of balance between hard and soft lifestyles often practiced flower arranging or calligraphy, John Keehan did likewise. He artistically expressed himself as a hair stylist. He worked on some of the hair designs for Playboy models of the time that gave rise to his flamboyant personification and helped launch him to the forefront of martial art history.",
     'cover': 'blackdragon.jpg',
     'link': 'https://en.wikipedia.org/wiki/Driulis_González',
     'medals': [
@@ -167,7 +172,8 @@ const athletes = [
     'name': 'Grandmaster Ronald Pierce',
     'country': 'cu',
     'birth': '1973',
-    'image': 'dante.jpg',
+    'image': 'ron.jpg',
+    'bio': "Inspired by the fact Samurai warriors in order to attain a sense of balance between hard and soft lifestyles often practiced flower arranging or calligraphy, John Keehan did likewise. He artistically expressed himself as a hair stylist. He worked on some of the hair designs for Playboy models of the time that gave rise to his flamboyant personification and helped launch him to the forefront of martial art history.",
     'cover': 'blackdragon.jpg',
     'link': 'https://en.wikipedia.org/wiki/Driulis_González',
     'medals': [
@@ -194,7 +200,8 @@ const athletes = [
     'name': 'Grandmaster Ernie Reyonlds',
     'country': 'cu',
     'birth': '1973',
-    'image': 'dante.jpg',
+    'image': 'ernie.jpg',
+    'bio': "Inspired by the fact Samurai warriors in order to attain a sense of balance between hard and soft lifestyles often practiced flower arranging or calligraphy, John Keehan did likewise. He artistically expressed himself as a hair stylist. He worked on some of the hair designs for Playboy models of the time that gave rise to his flamboyant personification and helped launch him to the forefront of martial art history.",
     'cover': 'blackdragon.jpg',
     'link': 'https://en.wikipedia.org/wiki/Driulis_González',
     'medals': [
@@ -221,7 +228,8 @@ const athletes = [
     'name': 'Grandmaster Vic Moore',
     'country': 'cu',
     'birth': '1973',
-    'image': 'dante.jpg',
+    'image': 'vic.jpg',
+    'bio': "Inspired by the fact Samurai warriors in order to attain a sense of balance between hard and soft lifestyles often practiced flower arranging or calligraphy, John Keehan did likewise. He artistically expressed himself as a hair stylist. He worked on some of the hair designs for Playboy models of the time that gave rise to his flamboyant personification and helped launch him to the forefront of martial art history.",
     'cover': 'blackdragon.jpg',
     'link': 'https://en.wikipedia.org/wiki/Driulis_González',
     'medals': [
