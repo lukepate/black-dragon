@@ -7,7 +7,6 @@ Getting Started
 
 Fork and Clone!
 
-Give an example
 
 Deployment -
 black-dragon.surge.sh
@@ -19,6 +18,3 @@ Express - Node.js web application framework
 Babel - Flexible Node.js web application framework.
 Wepack - module bundler
 
-Authors
-
-Luke Pate- Initial work 
